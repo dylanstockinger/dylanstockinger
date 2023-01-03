@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-stockinger.netlify.app/](https://portfolio-stockinger.netlify.app/)
 
-- 💬 Ask me about **JavaScript, Css, Sass**
+- 💬 Ask me about **JavaScript, Css**
 
 - 📫 How to reach me **pro.stockinger@gmail.com**
 
