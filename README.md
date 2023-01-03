@@ -5,14 +5,7 @@
  </img>
 </p>
 
-<div align='center'>
-  
-  <p align='center'>
-    <a href="[https://www.linkedin.com/in/taehyun-hwang-876631201](https://www.linkedin.com/in/dylan-stockinger/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="[https://twitter.com/eeht1717](https://twitter.com/ouestdylan)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:pro.stockinger@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-  </p>
-</div>
+
 
 ### About me
 
@@ -21,19 +14,25 @@
 * 🔥 I love to learn and do my best to make everything possible!
 
 
-<div>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
-<code><img height="20" src="https://prisma.gallerycdn.vsassets.io/extensions/prisma/prisma/3.12.0/1649166081033/Microsoft.VisualStudio.Services.Icons.Default"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
-</div>
+<p align="left"> <a href="https://twitter.com/ouestdylan" target="blank"><img src="https://img.shields.io/twitter/follow/ouestdylan?logo=twitter&style=for-the-badge" alt="ouestdylan" /></a> </p>
 
-<br/>
+- 🌱 I’m currently learning **Vue.js / Nuxt**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-stockinger.netlify.app/](https://portfolio-stockinger.netlify.app/)
+
+- 💬 Ask me about **JavaScript, Css, Sass**
+
+- 📫 How to reach me **pro.stockinger@gmail.com**
+
+- ⚡ Fun fact **I am passionate about Buddhist culture ⚡️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ouestdylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ouestdylan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dylan stockinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan stockinger" height="30" width="40" /></a>
+</p>
+
+
 
 [![Github Follow](https://img.shields.io/github/followers/dylanstockinger?label=Follow%20Me&style=social)](https://github.com/dylanstockinger)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangTaehyun&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
