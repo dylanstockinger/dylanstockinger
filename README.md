@@ -2,7 +2,9 @@
 <h3 align="center">Imagine a thing. 🌍 Think about this one.💡 Create it.🧞‍♂️ Junior developper who love learning all days.</h3>
 
 
-![Alt text](/Users/mac/Downloads/homework-g78f0afe82_1280.jpg "Optional title")
+![stones-gd2c53ed9a_640](https://user-images.githubusercontent.com/105114575/210318822-e92a0d5c-c974-4b52-b41d-01bf6005b5e3.jpg)
+
+
 
 
 <p align="left"> <a href="https://twitter.com/ouestdylan" target="blank"><img src="https://img.shields.io/twitter/follow/ouestdylan?logo=twitter&style=for-the-badge" alt="ouestdylan" /></a> </p>
@@ -18,6 +20,7 @@
 - ⚡ Fun fact **I am passionate about Buddhist culture ⚡️**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/ouestdylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ouestdylan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dylan stockinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan stockinger" height="30" width="40" /></a>
