@@ -2,7 +2,7 @@
 <h3 align="center">Imagine a thing. 🌍 Think about this one.💡 Create it.🧞‍♂️ Junior developper who love learning all days.</h3>
 
 
-![Alt text](/Users/mac/Downloads/homework-g78f0afe82_1280.jpg?raw=true "Title")
+![Alt text](/Users/mac/Downloads/homework-g78f0afe82_1280.jpg "Optional title")
 
 
 <p align="left"> <a href="https://twitter.com/ouestdylan" target="blank"><img src="https://img.shields.io/twitter/follow/ouestdylan?logo=twitter&style=for-the-badge" alt="ouestdylan" /></a> </p>
