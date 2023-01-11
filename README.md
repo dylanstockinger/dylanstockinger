@@ -7,10 +7,12 @@
 
 
 
-### Junior developer ! 👋
+### Hey there ! 👋
 
 At 24 years old, I decided to leave my job  :balance_scale: to go into what I'm really passionate about, computer science. **I started a 6 months intensive developer training at @O'clock.**  
-  
-During these **6 months** I was able to acquire solid bases and to **launch myself in a concrete project** : an **application** which tries to approach a solution to the organizations (proposing an activity like) and to the users (eager to venture in a new sporting or creative experiment) by creating a centralized platform, intuitive and easy to learn to **facilitate the interoperability of the exchanges associations-users**. :guitar: :soccer:	  
-  
-Currently, I am looking for an internship for the month of January 7, 2003 and a **alterned training** for **April 3, 2023** :fire: .  
+
+During these 6 intensive months, I was able to learn what the world of the web really was, I was also able to discipline myself and acquire a good knowledge.
+
+Following the theory part, **we had a month** where I was able to embark on the creation of a **solid application**, which offers cooking recipes and the possibility of creating new recipes and sharing them 🍪 🥘 . **I have only one desire: to develop my knowledge**.
+
+Currently looking for an **apprenticeship contract** for **April 2023** 🔥
