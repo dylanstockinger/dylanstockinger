@@ -13,10 +13,3 @@
 
 * 🔥 I love to learn and do my best to make everything possible!
 
-
-
-
-
-<strong>🏆 More stats</strong>
-
-<a href="https://app.dooboo.io/dylanstockinger"><img src="https://server.dooboo.io/github-stats/dylanstockinger" width="600" /></a>
