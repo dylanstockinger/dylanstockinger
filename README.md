@@ -10,8 +10,7 @@
    <p>👯 I'm looking to collaborate on React project</p>
    <p>💬 Ask me about React.js or other front-end framework</p>
    <p>📫 How to reach me: in my personal mailbox => <a href="mailto:pro.stockinger@gmail.com">pro.stockinger@gmail.com</a></p>
-   
-   <h1>My Skills</h1>
+ 
 
  </div>
 
