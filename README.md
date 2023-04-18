@@ -2,7 +2,7 @@
   <h1 style="text-align:center;">Hi there 👋😄</h1>
   <img src='https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif' />
   <hr/>
-  <p>My name's Vignal Brice i'm a <b>frontend developer</b> based in <b><u>France</u></b>. I love to learn and teach web & mobile development</p>
+  <p>My name's Stockinger Dylan i'm a <b>frontend developer</b> based in <b><u>France</u></b>. I love to learn and teach web & mobile development</p>
   <p>Share my experiences, my knowledge it's my first passion !</p>
   
    <p>🔭 I'm currently working on HTML/CSS library for components in Vue.js/React.js/Svelte.js</p>
