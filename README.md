@@ -5,10 +5,9 @@
   <p>My name's Stockinger Dylan i'm a <b>frontend developer</b> based in <b><u>France</u></b>. I love to learn and teach web & mobile development</p>
   <p>Share my experiences, my knowledge it's my first passion !</p>
   
-   <p>🔭 I'm currently working on HTML/CSS library for components in React.js</p>
-   <p>🌱 I'm currently learning <a href="https://svelte.dev/">Svelte.js</a> framework</p>
-   <p>👯 I'm looking to collaborate on React project</p>
-   <p>💬 Ask me about React.js or other front-end framework</p>
+   <p>🌱 I'm currently learning <a href="https://swift.org/">Swift</a> framework</p>
+   <p>👯 I'm looking to collaborate on Swift project</p>
+   <p>💬 Ask me about Swift or other</p>
    <p>📫 How to reach me: in my personal mailbox => <a href="mailto:pro.stockinger@gmail.com">pro.stockinger@gmail.com</a></p>
  
 
