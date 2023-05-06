@@ -7,7 +7,7 @@
   
    <p>🌱 I'm currently learning <a href="https://swift.org/">Swift</a> framework</p>
    <p>👯 I'm looking to collaborate on Swift project</p>
-   <p>💬 Ask me about Swift or other</p>
+   <p>💬 Ask me about front-end development or other</p>
    <p>📫 How to reach me: in my personal mailbox => <a href="mailto:pro.stockinger@gmail.com">pro.stockinger@gmail.com</a></p>
  
 
